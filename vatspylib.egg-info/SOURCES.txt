@@ -1,0 +1,7 @@
+setup.py
+vatspylib/__init__.py
+vatspylib/myfunctions.py
+vatspylib.egg-info/PKG-INFO
+vatspylib.egg-info/SOURCES.txt
+vatspylib.egg-info/dependency_links.txt
+vatspylib.egg-info/top_level.txt
